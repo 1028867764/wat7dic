@@ -1,8 +1,8 @@
 {
   "name": "main",
   "version": "0.0.1",
-  "createTime": "2025-01-08T16:11:44.076Z",
-  "updateTime": "2025-01-08T16:11:45.979Z",
+  "createTime": "2025-01-21T06:10:51.498Z",
+  "updateTime": "2025-01-21T06:10:53.784Z",
   "creators": [],
   "data": {
     "U+516B-bbet8": {
@@ -126833,32 +126833,6 @@
       "bbakLau": "",
       "subDB": "Common"
     },
-    "U+22265-0et8": {
-      "unicode": "U+22265",
-      "characters": [
-        "𢉥"
-      ],
-      "controversial": 0,
-      "related": {},
-      "pinyin": "ye4",
-      "jyutping": "et8",
-      "head": "",
-      "tail": "",
-      "refBy": {},
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": [
-              "擁擠"
-            ],
-            "en": []
-          },
-          "words": []
-        }
-      ],
-      "bbakLau": "",
-      "subDB": "Common"
-    },
     "U+6196-njan1": {
       "unicode": "U+6196",
       "characters": [
@@ -147219,7 +147193,7 @@
       "related": {
         "U+4EA8-haa1": "亨",
         "U+22849-sap7": "𢡉",
-        "U+22849-njap7": "𢡉",
+        "U+53FA-njap7": "叺",
         "U+9773-kan3": "靳",
         "U+5625-sloi1": "嘥"
       },
@@ -166704,12 +166678,12 @@
       ],
       "subDB": "WriteableChars"
     },
-    "U+22849-njap7": {
-      "unicode": "U+22849",
+    "U+53FA-njap7": {
+      "unicode": "U+53FA",
       "characters": [
-        "𢡉"
+        "叺"
       ],
-      "controversial": 1,
+      "controversial": 2,
       "related": {
         "U+4EA8-haa1": "亨",
         "U+60AD-hon1": "悭",
@@ -166717,7 +166691,7 @@
         "U+9773-kan3": "靳",
         "U+5625-sloi1": "嘥"
       },
-      "pinyin": "se4",
+      "pinyin": "chi3",
       "jyutping": "njap7",
       "bbakLau": "",
       "head": "nj",
@@ -166732,7 +166706,7 @@
           "words": [
             {
               "format": [
-                "𢡉nji1"
+                "叺nji1"
               ],
               "descriptions": {
                 "zh": [
@@ -166745,7 +166719,7 @@
               "sentences": [
                 {
                   "format": [
-                    "𢡉nji1鬼"
+                    "叺nji1鬼"
                   ],
                   "descriptions": {
                     "zh": [
@@ -166772,7 +166746,7 @@
       "related": {
         "U+4EA8-haa1": "亨",
         "U+60AD-hon1": "悭",
-        "U+22849-njap7": "𢡉",
+        "U+53FA-njap7": "叺",
         "U+9773-kan3": "靳",
         "U+5625-sloi1": "嘥"
       },
@@ -174974,24 +174948,22 @@
       ],
       "controversial": 0,
       "related": {
-        "A+56-fik7": "fik7"
+        "U+62C2-fat7": "拂"
       },
       "pinyin": "fu2",
       "jyutping": "pat7",
       "bbakLau": "",
       "head": "p",
       "tail": "t",
-      "refBy": {
-        "U+62C2-pat7": "拂"
-      },
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
             "zh": [
-              "摔脱，甩"
+              "从物体表面掠过击打，以拍除附在表面的东西"
             ],
             "en": [
-              "Move (hand) backward and forward; Swing; Shake"
+              "Sweeping and striking from the surface of an object to remove something attached to the surface"
             ]
           },
           "words": [
@@ -175006,30 +174978,14 @@
               "sentences": [
                 {
                   "format": [
+                    "件",
                     {
-                      "id": "U+8BA1-gai3",
-                      "char": "计"
+                      "id": "U+886B-som1",
+                      "char": "衫"
                     },
                     {
-                      "id": "U+7D27-gan2",
-                      "char": "紧"
-                    },
-                    {
-                      "id": "U+652F-zi1",
-                      "char": "支"
-                    },
-                    "笔墨水",
-                    {
-                      "id": "U+4F7F-sai2",
-                      "char": "使"
-                    },
-                    {
-                      "id": "U+9F50-dai4",
-                      "char": "齐"
-                    },
-                    {
-                      "id": "A+a",
-                      "char": "ぁ"
+                      "id": "A+3-nam1",
+                      "char": "nam1"
                     },
                     {
                       "id": "A+le5",
@@ -175037,40 +174993,17 @@
                     },
                     "，拂",
                     {
-                      "id": "U+62C2-fat7",
+                      "id": "U+62C2-pat7",
                       "char": "拂"
                     },
-                    "又写",
-                    {
-                      "id": "U+5F97-ddak7",
-                      "char": "得"
-                    },
-                    "出"
+                    "净"
                   ],
                   "descriptions": {
                     "zh": [
-                      "本以为这支笔的墨水用完了，甩了一下又写得出来了"
+                      "衣服脏了，拍打干净"
                     ],
                     "en": [
-                      "I thought this pen had run out of ink, but after shaking it, it could write again"
-                    ]
-                  }
-                },
-                {
-                  "format": [
-                    "拂",
-                    {
-                      "id": "U+587D-song3",
-                      "char": "塽"
-                    },
-                    "手"
-                  ],
-                  "descriptions": {
-                    "zh": [
-                      "把手甩干"
-                    ],
-                    "en": [
-                      "Shake one's hands dry"
+                      "The clothes are dirty, pat them clean"
                     ]
                   }
                 }
@@ -175088,16 +175021,14 @@
       ],
       "controversial": 0,
       "related": {
-        "A+56-fik7": "fik7"
+        "U+62C2-pat7": "拂"
       },
       "pinyin": "fu2",
       "jyutping": "fat7",
       "bbakLau": "",
       "head": "f",
       "tail": "t",
-      "refBy": {
-        "U+62C2-pat7": "拂"
-      },
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -187921,7 +187852,7 @@
       "related": {
         "U+60AD-hon1": "悭",
         "U+22849-sap7": "𢡉",
-        "U+22849-njap7": "𢡉",
+        "U+53FA-njap7": "叺",
         "U+9773-kan3": "靳",
         "U+5625-sloi1": "嘥"
       },
